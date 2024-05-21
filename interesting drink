@@ -1,0 +1,14 @@
+/* 5  3 10 8 6 11 / 4  1 10 3 11 / 0_4_1_5 */
+#include <iostream>
+using namespace std;
+int main()
+{int shop,price,day,money,buy=0;
+cin >>shop ;
+for(shop;shop>0;shop--){cin>>price;}
+ if(money>=price){buy++;}
+cin>>day;
+  for(day;day>0;day--) {
+      cin>>money; cout<<buy;}
+ // if(money>=price){buy++;}
+  //cout<<buy;
+  } // return 0;}
